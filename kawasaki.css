@@ -1,0 +1,242 @@
+body{
+    margin: 0%;
+    font-family: "delta_pro", sans-serif;
+    background-image: url(parallaxbg.jpg);
+}
+.container{
+    display: block;
+}
+.header{
+    width: 100%;
+    height: 6rem;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    z-index: 99;
+}
+.left-section{
+    width: 60%;
+    margin-left: 1rem;
+}
+.header1{
+    width: 100%;
+    height: 0.2rem;
+    background-color: #69bd27;
+    position: fixed;
+    margin-top: 90px;
+    z-index: 99;
+}
+.right-section{
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+}
+.on1{
+    color: #69bd27;
+    text-decoration: none;
+}
+.on2{
+    color: #69bd27;
+    text-decoration: none;
+}
+.on3{
+    color: #69bd27;
+    text-decoration: none;
+}
+.on4{
+    color: #69bd27;
+    text-decoration: none;
+}
+.on5{
+    color: #69bd27;
+    text-decoration: none;
+}
+.on6{
+    color: #69bd27;
+    text-decoration: none;
+}
+.header1{
+    width: 100%;
+    height: 0.2rem;
+    background-color: #69bd27;
+    position: fixed;
+    margin-top: 90px;
+    z-index: 99;
+}
+.header2{
+    width: 100%;
+    height: 30p;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    position: fixed;
+    margin-top: 96px;
+    z-index: 99;
+    cursor: pointer;
+}
+.site-logo{
+    width: 30rem;
+}
+.damu{
+    width: 100%;
+}
+.background{
+    width: 100%;
+    height: 95rem;
+    background-size: contain;
+    margin-left: 12.5%;
+}
+.main-meme{
+    width: 100%;
+}
+.p1{
+    width: 100%;
+    margin-top: 8%;
+    border-bottom-left-radius: 5%;
+    border-bottom-right-radius: 5%;
+}
+.main-meme2{
+    width: 100%;
+    height: 1%;
+    background-size: contain;
+}
+.p2{
+    width: 99%;
+    background-color: rgb(0, 0, 0);
+    border-color: white;
+    border-radius: 5%;
+}
+.item2{
+    margin-left: 34%;
+}
+.price2{
+   padding-left: 37%;
+   color: #000000;
+}
+.main-meme3{
+    width: 99%;
+    background-size: contain;
+}
+.p3{
+    width: 100%;
+    background-color: black;
+    border-color: white;
+    border-radius: 5%;
+}
+.item3{
+   padding-left: 32%;
+}
+.price3{
+    padding-left: 40%;
+    color: #000000;
+}
+.main-meme4{
+    width: 99%;
+    height: 5%;
+    background-size: contain;
+}
+.main-meme5{
+    width: 99%;
+}
+.p4{
+    width: 99%;
+    background-color: rgb(0, 0, 0);
+    border-color: white;
+    border-radius: 5%;
+}
+.p5{
+    width: 99%;
+    background-color: rgb(0, 0, 0);
+    border-color: white;
+    border-radius: 5%;
+}
+.item5{
+    padding-left: 32%;
+    width: 40%;
+}
+.item4{
+  padding-left: 33%;
+}
+.price4{
+    padding-left: 37%;
+}
+.p5{
+    width: 99%;
+}
+.price5{
+    padding-left: 38%;
+    color: #000000;
+}
+.ft{
+    margin-top: 40%;
+    margin-left: 25%;
+}
+.background{
+    background-size: contain;
+    width: 500%;
+    height: 40%;
+}
+.combo1{
+    width: 100%;
+    margin-top: 3%;
+    display: flex;
+    height: 30%;
+}
+.combo2{
+    width: 100%;
+    margin-top: 3%;
+    display: flex;
+    height: 50;
+}
+.fix{
+    width: 100%;
+    height: 75%;
+}
+.vid{
+    margin-left: 45%;
+}
+.combo3{
+   margin-left: 2%;
+}
+.NINJA-300{
+    width: 32.33%;
+    border-radius: 5%;
+}
+.MY23-NINJA-400{
+    width: 32.33%;
+    border-radius: 5%;
+}
+.MY18-Z900{
+    width: 32.33%;
+    border-radius: 5%;
+}
+.combo4{
+    margin-left: 2%;
+}
+.NINJA-ZX-10R{
+    width: 32.33%;
+    border-radius: 5%;
+}
+.MY22-Z650{
+    width: 32.33%;
+    border-radius: 5%;
+}
+.MY17-Z900{
+    width: 32.33%;
+    border-radius: 5%;
+}
+.foot1{
+    width: 100%;
+    background-color: rgb(32, 31, 31);
+}
+.lami1{
+    color: white;
+}
+.lami2{
+    color: white;
+}
+.lami3{
+    color: white;
+}
